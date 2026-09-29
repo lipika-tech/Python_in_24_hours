@@ -1,0 +1,4 @@
+Python Programming – 6 Days / 24 Hours
+
+Course Overview
+A practical, hands-on Python curriculum progressing from core programming concepts through data processing, APIs, visualization, and application development.
